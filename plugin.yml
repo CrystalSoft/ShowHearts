@@ -1,0 +1,9 @@
+name: ShowHearts
+main: it.crystalsoft.showhearts.ShowHearts
+version: 1.0 beta 7
+
+commands:
+        sh:
+                description: Show hearts (health) for Players & Mobs (all living entities)
+                permission: 
+                permission-message: You can't do that!

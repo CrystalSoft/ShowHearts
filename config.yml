@@ -1,0 +1,6 @@
+head: true
+players: true
+monsters: true
+animals: true
+villagers: true
+symbol: ❤
